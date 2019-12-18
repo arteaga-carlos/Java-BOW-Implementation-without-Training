@@ -27,7 +27,7 @@ import static java.nio.file.Files.*;
 
 
 
-public class FirstClass {
+public class Main {
 
 
     public static void main(String[] args){
