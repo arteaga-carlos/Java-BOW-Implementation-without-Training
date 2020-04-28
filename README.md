@@ -1,4 +1,4 @@
-# Java-BOW-Implementation-Without-Training
+# Machine Learning in Java-BOW-Implementation-Without-Training
 
 Summary
 -----------------------
