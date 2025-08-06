@@ -18,6 +18,7 @@ import static SimilarityFinder.FirstClass.*;
 */
 
 // main dictionary of words
+// BAG of Words
 public class Dict {
 
     private List<Row> dataRows;
@@ -217,4 +218,5 @@ public class Dict {
     public ArrayList<WordsVector> getDataVectorizedList() {
         return dataVectorizedList;
     }
+
 }
